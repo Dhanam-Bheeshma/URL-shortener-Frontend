@@ -6,9 +6,10 @@ Backend URL: https://url-shortener-backend-te8x.onrender.com
 Frontend URL: https://urlshort-demo.netlify.app
 
 
-Repositories
-Backend: URL Shortener Backend
-Frontend: URL Shortener Frontend
+Github Repositories
+Backend: URL Shortener Backend :https://github.com/Dhanam-Bheeshma/URL-shortener-Backend.git
+Frontend: URL Shortener Frontend :https://github.com/Dhanam-Bheeshma/URL-shortener-Frontend.git
+
 
 
 Features
