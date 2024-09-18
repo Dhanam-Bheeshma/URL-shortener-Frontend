@@ -1,0 +1,7 @@
+Back-end:
+Render url:https://url-shortener-backend-te8x.onrender.com
+Github Repository:https://github.com/Dhanam-Bheeshma/URL-shortener-Backend.git
+
+Front-end:
+Github Repository:https://github.com/Dhanam-Bheeshma/URL-shortener-Frontend.git
+netlify url:https://urlshort-demo.netlify.app/
